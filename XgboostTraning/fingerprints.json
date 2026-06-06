@@ -1,0 +1,595 @@
+[
+  {
+    "nodeId": "A",
+    "x": 630,
+    "y": 920,
+    "headingSin": 0.707107,
+    "headingCos": -0.707107,
+    "orientation": "south",
+    "timestamp": 1780312091725,
+    "signals": {
+      "4114": -79,
+      "4115": -76,
+      "4116": -66,
+      "4117": -88
+    }
+  },
+  {
+    "nodeId": "A",
+    "x": 630,
+    "y": 920,
+    "headingSin": -0.866025,
+    "headingCos": 0.5,
+    "orientation": "west",
+    "timestamp": 1780312116947,
+    "signals": {
+      "4114": -84,
+      "4115": -81,
+      "4116": -63
+    }
+  },
+  {
+    "nodeId": "A",
+    "x": 630,
+    "y": 920,
+    "headingSin": -0.656059,
+    "headingCos": 0.75471,
+    "orientation": "north",
+    "timestamp": 1780312162272,
+    "signals": {
+      "4114": -91,
+      "4115": -81,
+      "4116": -69
+    }
+  },
+  {
+    "nodeId": "A",
+    "x": 630,
+    "y": 920,
+    "headingSin": 0.927184,
+    "headingCos": -0.374607,
+    "orientation": "east",
+    "timestamp": 1780312204402,
+    "signals": {
+      "4114": -73,
+      "4115": -74,
+      "4116": -69,
+      "4117": -87
+    }
+  },
+  {
+    "nodeId": "B",
+    "x": 630,
+    "y": 1030,
+    "headingSin": 0.961262,
+    "headingCos": -0.275637,
+    "orientation": "east",
+    "timestamp": 1780312229608,
+    "signals": {
+      "4114": -74,
+      "4115": -70,
+      "4117": -95
+    }
+  },
+  {
+    "nodeId": "B",
+    "x": 630,
+    "y": 1030,
+    "headingSin": -0.121869,
+    "headingCos": -0.992546,
+    "orientation": "south",
+    "timestamp": 1780312250398,
+    "signals": {
+      "4114": -80,
+      "4115": -72,
+      "4116": -73,
+      "4117": -85
+    }
+  },
+  {
+    "nodeId": "B",
+    "x": 630,
+    "y": 1030,
+    "headingSin": -0.984808,
+    "headingCos": 0.173648,
+    "orientation": "west",
+    "timestamp": 1780312271922,
+    "signals": {
+      "4114": -86,
+      "4116": -66,
+      "4117": -91
+    }
+  },
+  {
+    "nodeId": "B",
+    "x": 630,
+    "y": 1030,
+    "headingSin": 0.325568,
+    "headingCos": 0.945519,
+    "orientation": "north",
+    "timestamp": 1780312294563,
+    "signals": {
+      "4114": -76,
+      "4115": -81,
+      "4116": -75,
+      "4117": -88
+    }
+  },
+  {
+    "nodeId": "C",
+    "x": 550,
+    "y": 1030,
+    "headingSin": -0.156434,
+    "headingCos": -0.987688,
+    "orientation": "south",
+    "timestamp": 1780312322367,
+    "signals": {
+      "4113": -89,
+      "4114": -82,
+      "4115": -90,
+      "4116": -89,
+      "4117": -93
+    }
+  },
+  {
+    "nodeId": "C",
+    "x": 550,
+    "y": 1030,
+    "headingSin": -0.978148,
+    "headingCos": 0.207912,
+    "orientation": "west",
+    "timestamp": 1780312358868,
+    "signals": {
+      "4114": -88,
+      "4115": -87,
+      "4116": -87,
+      "4117": -92
+    }
+  },
+  {
+    "nodeId": "C",
+    "x": 550,
+    "y": 1030,
+    "headingSin": 0.258819,
+    "headingCos": 0.965926,
+    "orientation": "north",
+    "timestamp": 1780312438203,
+    "signals": {
+      "4114": -93,
+      "4115": -81,
+      "4116": -69,
+      "4117": -90
+    }
+  },
+  {
+    "nodeId": "C",
+    "x": 550,
+    "y": 1030,
+    "headingSin": 0.987688,
+    "headingCos": -0.156434,
+    "orientation": "east",
+    "timestamp": 1780312456999,
+    "signals": {
+      "4113": -91,
+      "4114": -77,
+      "4115": -83,
+      "4116": -77,
+      "4117": -86
+    }
+  },
+  {
+    "nodeId": "D",
+    "x": 630,
+    "y": 1028,
+    "headingSin": 0.34202,
+    "headingCos": -0.939693,
+    "orientation": "south",
+    "timestamp": 1780312666180,
+    "signals": {
+      "4113": -87,
+      "4114": -73,
+      "4115": -60,
+      "4116": -80
+    }
+  },
+  {
+    "nodeId": "D",
+    "x": 630,
+    "y": 1028,
+    "headingSin": -0.866025,
+    "headingCos": -0.5,
+    "orientation": "west",
+    "timestamp": 1780312688483,
+    "signals": {
+      "4113": -88,
+      "4115": -73,
+      "4116": -75,
+      "4117": -83
+    }
+  },
+  {
+    "nodeId": "D",
+    "x": 630,
+    "y": 1028,
+    "headingSin": -0.544639,
+    "headingCos": 0.838671,
+    "orientation": "north",
+    "timestamp": 1780312710295,
+    "signals": {
+      "4114": -88,
+      "4115": -69,
+      "4116": -76,
+      "4117": -84
+    }
+  },
+  {
+    "nodeId": "D",
+    "x": 630,
+    "y": 1028,
+    "headingSin": 0.97437,
+    "headingCos": 0.224951,
+    "orientation": "east",
+    "timestamp": 1780312730727,
+    "signals": {
+      "4113": -96,
+      "4114": -79,
+      "4115": -69,
+      "4116": -83
+    }
+  },
+  {
+    "nodeId": "E",
+    "x": 630,
+    "y": 1230,
+    "headingSin": 0.857167,
+    "headingCos": -0.515038,
+    "orientation": "east",
+    "timestamp": 1780312760096,
+    "signals": {
+      "4114": -72,
+      "4115": -85,
+      "4116": -87
+    }
+  },
+  {
+    "nodeId": "E",
+    "x": 630,
+    "y": 1230,
+    "headingSin": -0.642788,
+    "headingCos": -0.766044,
+    "orientation": "south",
+    "timestamp": 1780312779888,
+    "signals": {
+      "4114": -74,
+      "4115": -78,
+      "4116": -79,
+      "4117": -72
+    }
+  },
+  {
+    "nodeId": "E",
+    "x": 630,
+    "y": 1230,
+    "headingSin": -0.681998,
+    "headingCos": 0.731354,
+    "orientation": "north",
+    "timestamp": 1780312800483,
+    "signals": {
+      "4113": -88,
+      "4114": -77,
+      "4116": -83,
+      "4117": -78
+    }
+  },
+  {
+    "nodeId": "E",
+    "x": 630,
+    "y": 1230,
+    "headingSin": -0.939693,
+    "headingCos": 0.34202,
+    "orientation": "west",
+    "timestamp": 1780312835624,
+    "signals": {
+      "4113": -92,
+      "4114": -78,
+      "4115": -76,
+      "4116": -85,
+      "4117": -80
+    }
+  },
+  {
+    "nodeId": "F",
+    "x": 520,
+    "y": 1230,
+    "headingSin": -0.669131,
+    "headingCos": -0.743145,
+    "orientation": "south",
+    "timestamp": 1780312858515,
+    "signals": {
+      "4113": -81,
+      "4114": -77,
+      "4115": -79,
+      "4116": -82,
+      "4117": -83
+    }
+  },
+  {
+    "nodeId": "F",
+    "x": 520,
+    "y": 1230,
+    "headingSin": -0.669131,
+    "headingCos": 0.743145,
+    "orientation": "north",
+    "timestamp": 1780312883865,
+    "signals": {
+      "4113": -86,
+      "4114": -64,
+      "4117": -82
+    }
+  },
+  {
+    "nodeId": "F",
+    "x": 520,
+    "y": 1230,
+    "headingSin": 0.882948,
+    "headingCos": 0.469472,
+    "orientation": "east",
+    "timestamp": 1780312909097,
+    "signals": {
+      "4114": -66,
+      "4115": -77,
+      "4116": -85,
+      "4117": -83
+    }
+  },
+  {
+    "nodeId": "F",
+    "x": 520,
+    "y": 1230,
+    "headingSin": -0.920505,
+    "headingCos": 0.390731,
+    "orientation": "west",
+    "timestamp": 1780312956272,
+    "signals": {
+      "4113": -94,
+      "4114": -63,
+      "4115": -76,
+      "4116": -86
+    }
+  },
+  {
+    "nodeId": "G",
+    "x": 430,
+    "y": 1145,
+    "headingSin": -0.798636,
+    "headingCos": -0.601815,
+    "orientation": "west",
+    "timestamp": 1780312981027,
+    "signals": {
+      "4114": -84,
+      "4115": -91,
+      "4116": -89,
+      "4117": -59
+    }
+  },
+  {
+    "nodeId": "G",
+    "x": 430,
+    "y": 1145,
+    "headingSin": -0.469472,
+    "headingCos": 0.882948,
+    "orientation": "north",
+    "timestamp": 1780313003870,
+    "signals": {
+      "4113": -82,
+      "4114": -74,
+      "4115": -83,
+      "4116": -90,
+      "4117": -62
+    }
+  },
+  {
+    "nodeId": "G",
+    "x": 430,
+    "y": 1145,
+    "headingSin": 0.866025,
+    "headingCos": 0.5,
+    "orientation": "east",
+    "timestamp": 1780313025514,
+    "signals": {
+      "4113": -89,
+      "4114": -69,
+      "4116": -83,
+      "4117": -64
+    }
+  },
+  {
+    "nodeId": "G",
+    "x": 430,
+    "y": 1145,
+    "headingSin": 0.258819,
+    "headingCos": -0.965926,
+    "orientation": "south",
+    "timestamp": 1780313047423,
+    "signals": {
+      "4113": -81,
+      "4114": -76,
+      "4115": -85,
+      "4116": -94,
+      "4117": -70
+    }
+  },
+  {
+    "nodeId": "H",
+    "x": 370,
+    "y": 1075,
+    "headingSin": -0.992546,
+    "headingCos": -0.121869,
+    "orientation": "west",
+    "timestamp": 1780313075688,
+    "signals": {
+      "4113": -77,
+      "4114": -82,
+      "4116": -98,
+      "4117": -80
+    }
+  },
+  {
+    "nodeId": "H",
+    "x": 370,
+    "y": 1075,
+    "headingSin": 0,
+    "headingCos": 1,
+    "orientation": "north",
+    "timestamp": 1780313095473,
+    "signals": {
+      "4113": -78,
+      "4115": -82,
+      "4117": -79
+    }
+  },
+  {
+    "nodeId": "H",
+    "x": 370,
+    "y": 1075,
+    "headingSin": 0.994522,
+    "headingCos": 0.104528,
+    "orientation": "east",
+    "timestamp": 1780313115678,
+    "signals": {
+      "4113": -87,
+      "4114": -81,
+      "4115": -90
+    }
+  },
+  {
+    "nodeId": "H",
+    "x": 370,
+    "y": 1075,
+    "headingSin": 0.156434,
+    "headingCos": -0.987688,
+    "orientation": "south",
+    "timestamp": 1780313150987,
+    "signals": {
+      "4113": -74,
+      "4114": -72,
+      "4115": -91,
+      "4117": -75
+    }
+  },
+  {
+    "nodeId": "I",
+    "x": 340,
+    "y": 1000,
+    "headingSin": -0.848048,
+    "headingCos": 0.529919,
+    "orientation": "west",
+    "timestamp": 1780313209542,
+    "signals": {
+      "4113": -64,
+      "4114": -86,
+      "4117": -84
+    }
+  },
+  {
+    "nodeId": "I",
+    "x": 340,
+    "y": 1000,
+    "headingSin": -0.017452,
+    "headingCos": 0.999848,
+    "orientation": "north",
+    "timestamp": 1780313231484,
+    "signals": {
+      "4113": -63,
+      "4115": -95,
+      "4117": -85
+    }
+  },
+  {
+    "nodeId": "I",
+    "x": 340,
+    "y": 1000,
+    "headingSin": 0.99863,
+    "headingCos": 0.052336,
+    "orientation": "east",
+    "timestamp": 1780313250155,
+    "signals": {
+      "4113": -68,
+      "4114": -81,
+      "4115": -89,
+      "4117": -74
+    }
+  },
+  {
+    "nodeId": "I",
+    "x": 340,
+    "y": 1000,
+    "headingSin": 0,
+    "headingCos": -1,
+    "orientation": "south",
+    "timestamp": 1780313268712,
+    "signals": {
+      "4113": -72,
+      "4114": -80,
+      "4117": -82
+    }
+  },
+  {
+    "nodeId": "J",
+    "x": 280,
+    "y": 980,
+    "headingSin": -0.848048,
+    "headingCos": 0.529919,
+    "orientation": "west",
+    "timestamp": 1780313338421,
+    "signals": {
+      "4113": -65,
+      "4114": -81,
+      "4116": -94,
+      "4117": -91
+    }
+  },
+  {
+    "nodeId": "J",
+    "x": 280,
+    "y": 980,
+    "headingSin": -0.258819,
+    "headingCos": -0.965926,
+    "orientation": "south",
+    "timestamp": 1780313359926,
+    "signals": {
+      "4113": -66,
+      "4114": -86,
+      "4117": -83
+    }
+  },
+  {
+    "nodeId": "J",
+    "x": 280,
+    "y": 980,
+    "headingSin": 0.913545,
+    "headingCos": -0.406737,
+    "orientation": "east",
+    "timestamp": 1780313386110,
+    "signals": {
+      "4113": -77,
+      "4114": -87,
+      "4115": -90
+    }
+  },
+  {
+    "nodeId": "J",
+    "x": 280,
+    "y": 980,
+    "headingSin": -0.173648,
+    "headingCos": 0.984808,
+    "orientation": "north",
+    "timestamp": 1780313445586,
+    "signals": {
+      "4113": -61,
+      "4114": -82,
+      "4116": -98,
+      "4117": -85
+    }
+  }
+]

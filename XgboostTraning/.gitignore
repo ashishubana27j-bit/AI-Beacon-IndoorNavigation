@@ -1,0 +1,81 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite databases
+*.sqlite3
+*.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# FastAPI / Uvicorn
+uvicorn.log
+
+# ML Models (optional)
+*.pkl
+*.joblib
+*.h5
+*.onnx
+
+# Large datasets (optional)
+data/
+datasets/
+
+# Secrets
+secrets.json
+credentials.json
+# Trained models
+models/
+*.joblib
+*.pkl
+
+# Collected beacon data
+fingerprints/
+training_data/
+raw_data/
+
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
